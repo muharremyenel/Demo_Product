@@ -1,0 +1,11 @@
+﻿* Arama İşlemi
+* Üyelik Sistemi
+* Identity
+* Yardım Popup
+* Ayarlar
+* Çıkış Yap
+* Giriş Yap
+* Yeni Üye Kaydı
+* Admin Tablosu --> aspnet User
+* Publish
+* Projenin Canlıya Taşınması
